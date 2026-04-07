@@ -14,7 +14,7 @@
 
 **Servers99** is a premier provider of **dedicated server hosting** and **colocation services** with a massive global footprint. Operating in over **250 locations worldwide** with more than **15,000** active servers, we provide the infrastructure necessary for business growth and stability.
 
-We specialize in low-latency, enterprise-grade hardware designed to meethigh-performance demands. Whether you require **GPU servers** for heavy processing, **massive storage servers**, or high-speed **gaming servers**, our infrastructure delivers. All our services come with full **DDoS protection** to ensure your data stays safe. Backed by our expert team, we provide **24/7/365 full support**, ensuring your business stays online and optimized at all
+We specialize in low-latency, enterprise-grade hardware designed to meethigh-performance demands. Whether you require **GPU servers** for heavy processing, **massive storage servers**, or high-speed **gaming servers**, our infrastructure delivers. All our services come with full **DDoS protection** to ensure your data stays safe. Backed by our expert team, we provide **24/7/365 full support**, ensuring your business stays online and optimized at all times.
 
 ---
 
