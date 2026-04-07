@@ -97,6 +97,6 @@ With **250+ global data center locations**, **enterprise-grade hardware**, **hig
 South San Francisco,  
 CA 94080, United States
 
-**Email:** sales@servers99.com  
-**Website:** https://www.servers99.com/
-**Contact:** https://www.servers99.com/billing/submitticket.php/
+**Email:** sales@servers99.com 
+**Website:** https://www.servers99.com/    
+**Contact:** https://www.servers99.com/billing/submitticket.php/        
