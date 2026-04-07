@@ -81,6 +81,7 @@ With **250+ global data center locations**, **enterprise-grade hardware**, **hig
 | Dedicated Servers | https://www.servers99.com/dedicated-server/ |
 | Data Centers | https://www.servers99.com/data-centers/ |
 | GPU Servers | https://www.servers99.com/gpu-server/ |
+| Network | https://www.servers99.com/partners/ |
 | Colocation | https://www.servers99.com/colocation/ |
 | Blog | https://www.servers99.com/blog/ |
 | Tutorials | https://www.servers99.com/tutorials/ |
@@ -98,3 +99,4 @@ CA 94080, United States
 
 **Email:** sales@servers99.com  
 **Website:** https://www.servers99.com/
+**Contact:** https://www.servers99.com/billing/submitticket.php/
